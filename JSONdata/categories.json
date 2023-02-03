@@ -1,0 +1,236 @@
+[
+    {
+        "key": "monuments",
+        "title": "Памятники",
+        "category": {
+            "title": "П.П.Аносов",
+            "img": "img/monuments/anosov/anosov (1).jpg",
+            "url": "anosov" 
+        }
+    },
+    {
+        "key": "monuments",
+        "title": "Памятники",
+        "category": {
+            "title": "И.Н.Бушуев",
+            "img": "img/monuments/bushuev/bushuev (2).jpg",
+            "url": "bushuev"
+        }
+    },
+    {
+        "key": "monuments",
+        "title": "Памятники",
+        "category": {
+            "title": "Памятник 'Учителю'",
+            "img": "img/monuments/uchitel/uchitel (2).jpg",
+            "url": "uchitel"
+        }
+    },
+    {
+        "key": "monuments",
+        "title": "Памятники",
+        "category": {
+            "title": "'Горный Урал'",
+            "img": "img/monuments/gornural/gornural (1).jpg",
+            "url": "gornural"
+        }
+    },
+    {
+        "key": "monuments",
+        "title": "Памятники",
+        "category": {
+            "title": "Иоанн Златоуст",
+            "img": "img/monuments/ioanzlat/ioanzlat (1).jpg",
+            "url": "ioanzlat"
+        }
+    }, 
+    {
+        "key": "relaxation",
+        "title": "Отдых",
+        "category": {
+            "title": "НП «Таганай»",
+            "img": "img/relaxation/taganay/taganay (3).jpg",
+            "url": "taganay"
+        }
+    },
+    {
+        "key": "relaxation",
+        "title": "Отдых",
+        "category": {
+            "title": "Горный парк им. П.П. Бажова",
+            "img": "img/relaxation/bajova/bajova (2).jpg",
+            "url": "bajova"
+        }
+    },
+    {
+        "key": "relaxation",
+        "title": "Отдых",
+        "category": {
+            "title": "Детский парк «Крылатко»",
+            "img": "img/relaxation/crilatko/crilatko (3).jpg",
+            "url": "crilatko"
+        }
+    },
+    {
+        "key": "relaxation",
+        "title": "Отдых",
+        "category": {
+            "title": "Парк «Молодежный»",
+            "img": "img/relaxation/molodejniy/molodejniy (3).jpg",
+            "url": "molodejniy"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Река Ай",
+            "img": "img/water/ay/ay (1).jpg",
+            "url": "ay"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Река Громатуха",
+            "img": "img/water/gromatuxa/gromatuxa (1).jpg",
+            "url": "gromatuxa"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Река Тесьма",
+            "img": "img/water/tesma/tesma (2).jpg",
+            "url": "tesma"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Река Чувашка",
+            "img": "img/water/chuvashka/chuvashka (1).jpg",
+            "url": "chuvashka"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Городской пруд",
+            "img": "img/water/gorprud/gorprud (3).jpg",
+            "url": "gorprud"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Тарелка",
+            "img": "img/water/tarelka/tarelka (2).jpg",
+            "url": "tarelka"
+        }
+    },
+    {
+        "key": "water",
+        "title": "Водные богатства города",
+        "category": {
+            "title": "Родники",
+            "img": "img/water/rodniki/rodniki (3).jpg",
+            "url": "rodniki"
+        }
+    }, 
+    {
+        "key": "enterprises",
+        "title": "Предприятия",
+        "category": {
+            "title": "АО Златмаш",
+            "img": "img/enterprises/zlatmash/zlatmash (2).jpg",
+            "url": "zlatmash"
+        }
+    },
+    {
+        "key": "enterprises",
+        "title": "Предприятия",
+        "category": {
+            "title": "Компания Смарт",
+            "img": "img/enterprises/smart/smart (1).jpg",
+            "url": "smart"
+        }
+    },
+    {
+        "key": "enterprises",
+        "title": "Предприятия",
+        "category": {
+            "title": "Металлургический завод",
+            "img": "img/enterprises/metzavod/metzavod (1).jpg",
+            "url": "metzavod"
+        }
+    },
+    {
+        "key": "enterprises",
+        "title": "Предприятия",
+        "category": {
+            "title": "Оружейная фабрика",
+            "img": "img/enterprises/wepfactory/wepfactory (2).jpg",
+            "url": "wepfactory"
+        }
+    },
+    {
+        "key": "enterprises",
+        "title": "Предприятия",
+        "category": {
+            "title": "Часовой завод",
+            "img": "img/enterprises/watchfactory/watchfactory (1).jpg",
+            "url": "watchfactory"
+        }
+    },
+    {
+        "key": "attraction",
+        "title": "Достопримечательности",
+        "category": {
+            "title": "Башня-колокольня",
+            "img": "img/attraction/belltower/belltower (1).jpg",
+            "url": "belltower"
+        }
+    },
+    {
+        "key": "attraction",
+        "title": "Достопримечательности",
+        "category": {
+            "title": "Мемориал славы",
+            "img": "img/attraction/memory/memory (1).jpg",
+            "url": "memory"
+        }
+    },
+    {
+        "key": "attraction",
+        "title": "Достопримечательности",
+        "category": {
+            "title": "Дворец победы",
+            "img": "img/attraction/castle/castle (2).jpg",
+            "url": "castle"
+        }
+    },
+    {
+        "key": "attraction",
+        "title": "Достопримечательности",
+        "category": {
+            "title": "Краеведческий музей",
+            "img": "img/attraction/museum/museum (2).jpg",
+            "url": "museum"
+        }
+    },
+    {
+        "key": "attraction",
+        "title": "Достопримечательности",
+        "category": {
+            "title": "Театр «Омнибус»",
+            "img": "img/attraction/omnibus/omnibus (1).jpg",
+            "url": "omnibus"
+        }
+    }
+]
